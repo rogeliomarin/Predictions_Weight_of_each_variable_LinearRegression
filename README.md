@@ -1,4 +1,4 @@
-Multiple Lineal Regression
+CASE STUDY:
 
 With the following Transactional data from the previous year, mention some strategies to increase sales in the Category.
 
