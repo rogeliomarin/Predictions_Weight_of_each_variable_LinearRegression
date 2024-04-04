@@ -26,8 +26,9 @@ Utilizing transactional data from an event of a previous year, the case study ad
       -  Let's check what we did with these items the last time in terms of taxonomy and keywords.
 
   The Linear Regression Ecuation:
-  Yhat = B0 + B1 X1 + Bn Xn
-  yhat = 22.62 + (8*.06) + (3*.069) + (3.4*6.39) + (1*0.17) + (1*0.46)
+ - Yhat = B0 + B1 X1 + Bn Xn
+ - yhat = 22.62 + (8*.06) + (3*.069) + (3.4*6.39) + (1*0.17) + (1*0.46)
+   
 - How to use it?
   
  Suppose we want to predict sales for a user with an average of 8 months as a member, buying "Console 1" in week 3 of the event,
