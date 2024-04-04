@@ -14,7 +14,7 @@ Utilizing transactional data from an event of a previous year, the case study ad
 
   The Negatives:
 - The more weeks go by our sales decrese. So we better capitalize on having better promos and agressive strategies in the first weeks.
-- Why are our clients not using credit?, we don't have that much credit options as out competitors? this can be risky.
+- Why are our clients not using credit?, we don't have that much credit options as our competitors? this can be risky.
 - The items Console 1 Bundle is likely to not be sold, is the category manager ok with this?. Are the competitors giving better price options?. Maybe better taxonomy/ keywords may improve our sales. 
 
   The Positives:
