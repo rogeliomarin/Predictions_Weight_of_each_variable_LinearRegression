@@ -35,4 +35,4 @@ Utilizing transactional data from an event of a previous year, the case study ad
   Based on the linear regression equation, we expect to sell 46 pieces with a variability of 5 pieces, which means approximately between 41 and 51 pieces.
 
 
-NOTE: Check the code for more info about how I came into this conclussion.
+NOTE: Check the code for more info about how I came into these conclussions.
