@@ -1,4 +1,4 @@
-# 📈 Retail Data Science: Multiple Linear Regression Case Study
+# 📈 Data Science for Retail: Multiple Linear Regression 
 
 ## 📌 About
 
